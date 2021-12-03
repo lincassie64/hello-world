@@ -3,4 +3,4 @@
 
 CSE 360 Hello World git demo
 
-My name is Jiaxin Lin
+My name is Jiaxin Lin.
